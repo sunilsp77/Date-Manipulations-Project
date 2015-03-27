@@ -6,7 +6,7 @@ main()
     char date[11],date1[11],date2[11];
     char dayWeek[10],newDate[11];
     int iyear,imonth,dyear,dmonth,days;
-    int y,m,d;
+    int y,m,d1,d2;
 
     while(1)
     {   //providing choices
