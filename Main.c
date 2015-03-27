@@ -1,13 +1,14 @@
 #include<stdio.h>
 #include "Dtmanip.h"
+
 main()
-{
+{	//declaration of variables
     int choice;
     char date[11],date1[11],date2[11];
     char dayWeek[10],newDate[11];
     int iyear,imonth,dyear,dmonth,days;
     int y,m,d;
-
+	//asking of choice
     while(1)
     {
         printf("1. Date validation\n");
