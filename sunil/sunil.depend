@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1426098173 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\adddays.c
+
+1426096365 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\addyear.c
+
+1426093302 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\cmpdate.c
+
+1426096533 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\diffdays.c
+
+1426094089 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\diffymd.c
+
+1426036016 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\julian.c
+
+1426035255 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\leap.c
+
+1426098542 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\subdays.c
+
+1426192045 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\valid.c
+
+1426036498 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\weekday.c
+	<string.h>
+
+1426191890 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\main.c
+	<stdio.h>
+	"Dtmanip.h"
+
+1425944581 e:\computer sci engg\cse books\6th sem\project datemanipulation\dtmanip.h
+
+1426192040 source:e:\computer sci engg\cse books\6th sem\project datemanipulation\datefmt.c
+

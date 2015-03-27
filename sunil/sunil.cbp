@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sunil" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sunil" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sunil" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Adddays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Addmonth.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Addyear.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Cmpdate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Datefmt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Diffdays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Diffymd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Dtmanip.h" />
+		<Unit filename="../Julian.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Leap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Subdays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Submonth.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Subyear.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Valid.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Weekday.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
