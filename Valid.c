@@ -4,7 +4,7 @@ int isValid(char *date)
     int d,m,y;
     if(date[2]!='/' || date[5]!='/' || strlen(date)!=10)
         return 0;//if the date is not valid
-    splitDate(date,&y,&m,&d);//spliting date
+    splitDate(date,&y,&m,&d);//spliting date and checking
     if(d==0 || m==0 || y==0)return 0;
     if(d<1 || d>31 || m<1 || m>12)return 0;
     if(m==2)
