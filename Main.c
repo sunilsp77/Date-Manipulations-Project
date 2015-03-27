@@ -10,7 +10,7 @@ main()
     int y,m,d;
 	//asking of choice
     while(1)
-    {
+    {   //providing choices
         printf("1. Date validation\n");
         printf("2. Compare Dates\n");
         printf("3. Difference of Dates in days\n");
