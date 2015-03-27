@@ -9,7 +9,7 @@ main()
     int iyear,imonth,dyear,dmonth,days;
     int y,m,d;
 	//asking of choice
-    while(1)
+while(1)
     {   //providing choices
         printf("1. Date validation\n");
         printf("2. Compare Dates\n");
