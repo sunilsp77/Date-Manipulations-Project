@@ -1,4 +1,4 @@
-/*to add days to a date*/
+/*to add days to a date and get the resulting date*/
 void addDays(char *date,int days,char *newDate)
 {
     int d1,m1,y1,d2,m2,y2;
@@ -28,5 +28,5 @@ void addDays(char *date,int days,char *newDate)
         j2=days;
     }
     revJulian(j2,y2,&d2,&m2);
-    formDate(newDate,y2,m2,d2);
+    formDate(newDate,y2,m2,d2);//resulting date
 }
